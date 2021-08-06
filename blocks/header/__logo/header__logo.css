@@ -1,0 +1,10 @@
+.header__logo {
+position: absolute;
+left: 20px;
+top: 30px;
+width: 50px;
+height: 50px;
+background: url('../../../images/Icon_1.jpeg');
+background-size: cover;
+
+}
